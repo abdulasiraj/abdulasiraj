@@ -57,8 +57,7 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
 <!-- <img width="340" height="155" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
 </p>
-
-views
+<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=abdulasiraj)
 
 
