@@ -59,7 +59,7 @@ I'm a **Grad Student🎓 [@ The Ohio State University 🅾️](https://www.osu.e
 </p>
 
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
+[Profile Views](https://komarev.com/ghpvc/?username=abdulasiraj)
 
 
 <!-- <details>
