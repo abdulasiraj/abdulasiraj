@@ -19,9 +19,9 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 
 - 🔭 I’m currently working as a Data Engineer at **[Xref](https://xref.com/)**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
+  - 📊 Data Engineering & Data Science
+  - 🖼 Machine Learning & Computer Vision
   - 🛠 Software Engineering
-  - 🖼 Computer Vision
 - 💬 Ask me about Python, ML, DL, CV, NLP
 - 📙 Check out my [Resume](https://www.linkedin.com/in/abdullah-shoukat-30a18b192/)
 
