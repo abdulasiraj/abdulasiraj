@@ -22,7 +22,7 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
   - 📊 Data Engineering & Data Science
   - 🖼 Machine Learning & Computer Vision
   - 🛠 Software Engineering
-- 💬 Ask me about Python, ML, DL, CV, NLP
+- 💬 Ask me about Python, DE, ML, DL, CV, NLP
 - 📙 Check out my [Resume](https://www.linkedin.com/in/abdullah-shoukat-30a18b192/)
 
   
