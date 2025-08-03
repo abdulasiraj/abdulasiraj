@@ -18,12 +18,12 @@ I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with n
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a Data Engineer at **[Xref](https://xref.com/)**
+- 🔭 I’m currently working as a Data Engineer at **[Telenor](https://tss.telenor.com/)**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Data Engineering & Data Science
+  - 📊 Data Engineering & Data Analytics
   - 🖼 Machine Learning & Computer Vision
   - 🛠 Software Engineering
-- 💬 Ask me about Python, DE, ML, DL, CV, NLP
+- 💬 Ask me about Python, DE, DA, ML, CV, NLP
 - 📙 Check out my [Resume](https://www.linkedin.com/in/abdullah-shoukat-30a18b192/)
 
   
