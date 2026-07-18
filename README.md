@@ -1,58 +1,116 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Howdy!, I am <a href="https://github.com/abdulasiraj">Muhammad Abdullah</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1>
+  Howdy!, I am <a href="https://github.com/abdulasiraj">Muhammad Abdullah</a>
+  <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 </h1>
 
+<p>
+  <b>Senior Data Engineer</b> · Lahore / Islamabad, Pakistan · shipping cloud-native data platforms on GCP, AWS, and Azure.
+</p>
+
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/abdulasiraj/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullah-shoukat-30a18b192/)](https://www.linkedin.com/in/abdullah-shoukat-30a18b192/)
-[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black&link=https://leetcode.com/Abdullah4591)](https://leetcode.com/Abdullah4591)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/profile/abdulah4591)](https://www.hackerrank.com/profile/abdulah4591)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14935753/abdullah-shoukat)](https://stackoverflow.com/users/14935753/abdullah-shoukat)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:abdulah4591@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-shoukat-30a18b192/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdulasiraj/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Abdullah4591)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/abdulah4591)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14935753/abdullah-shoukat)
+[![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:abdullahshoukat4591@gmail.com)
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
+I'm a **Data Engineer with a soft spot for the whole stack** — from Terraform-managed GCP infra all the way up to Vertex AI embeddings inside BigQuery. I like turning messy business problems into small, opinionated pipelines that other engineers actually enjoy running.
 
-
+<br/>
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a Data Engineer at **[Telenor](https://tss.telenor.com/)**
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Data Engineering & Data Analytics
-  - 🖼 Machine Learning & Computer Vision
-  - 🛠 Software Engineering
-- 💬 Ask me about Python, DE, DA, ML, CV, NLP
-- 📙 Check out my [Resume](https://www.linkedin.com/in/abdullah-shoukat-30a18b192/)
+- 🔭 &nbsp; Currently a **Senior Data Engineer at [Telenor Shared Services](https://tss.telenor.com/)** — architecting a multi-domain data platform on GCP.
+- 🧱 &nbsp; Building with **dbt on BigQuery**, **Terraform**, and **GitHub Actions** — keyless CI/CD with Workload Identity Federation.
+- 🤖 &nbsp; Bringing **GenAI onto the warehouse**: vector search and embeddings powering semantic classification directly next to the data.
+- 💬 &nbsp; Ask me about **the modern data stack, dbt, BigQuery, lakehouse patterns, IaC, and applied ML**.
+- 📙 &nbsp; [Resume](https://www.linkedin.com/in/abdullah-shoukat-30a18b192/) · [LinkedIn](https://www.linkedin.com/in/abdullah-shoukat-30a18b192/)
 
-  
-### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
+## 🌟 Featured Projects
 
-### ⚙️ Some Tool and Tech I use
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-  <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/5009934?s=200&v=4"></code>
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/365630?s=88&v=4"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/15658638"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏗️ TSS Data Platform — End-to-End GCP Lakehouse</h4>
+      <p><em>dbt · BigQuery · Vertex AI · Cloud Run · GitHub Actions · Terraform</em></p>
+      <ul>
+        <li>Multi-domain dbt project (spend / finance / HR) with bronze → silver → gold layer contracts.</li>
+        <li>Vector search &amp; embeddings on Vertex AI for supplier dedup and automated invoice classification.</li>
+        <li>Containerised and deployed as Cloud Run Jobs via GitHub Actions with Workload Identity Federation.</li>
+        <li>Data quality gated by automated testing, linting, and pre-commit guardrails.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌍 tss-infra — Terraform for the Data Platform</h4>
+      <p><em>Terraform · GCP IAM · Workload Identity Federation · GitHub Actions</em></p>
+      <ul>
+        <li>Single source of truth for every GCP resource: projects, IAM, BigQuery datasets, GCS buckets, budgets.</li>
+        <li>Reusable modules for projects, datasets, buckets, service accounts, and CI identity.</li>
+        <li>Least-privilege IAM bound to Google Groups only; mandatory resource labels for env / domain / owner.</li>
+        <li><code>plan</code>-on-PR and <code>apply</code>-on-merge CI — no <code>terraform apply</code> from laptops, ever.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+## 🛠️ Tech I work with
+
+**Languages**
+&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+**Data platform & warehouses**
+&nbsp;
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Cloud & infra**
+&nbsp;
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**GenAI & ML**
+&nbsp;
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-000000?style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/-JAX-9E4EE2?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**BI & Analytics**
+&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ### 🚀 Quick Stats
+
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=abdulasiraj&show_icons=true&line_height=21&theme=react" alt="abdulasiraj's Github Stats" />
-<!-- <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
+  <img width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=abdulasiraj&show_icons=true&line_height=21&theme=react" alt="Muhammad Abdullah's GitHub Stats" />
+  <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulasiraj&langs_count=8&hide=jupyter%20notebook,css,html&theme=react&layout=compact" alt="Top languages" />
 </p>
 
 
